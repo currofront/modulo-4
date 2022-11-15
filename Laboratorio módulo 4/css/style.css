@@ -1,0 +1,23 @@
+body { background-color: #dadada;}
+
+.titulo {
+    text-align: center;
+}
+
+.container {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+.boton{
+    cursor: pointer;
+}
+
+.titulo__result{
+    text-align: center;
+}
+.result {
+    padding-left: 10px;
+    color: blue;
+}
